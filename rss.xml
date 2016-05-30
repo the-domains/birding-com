@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[birding.com]]></title>
+        <description><![CDATA[birding.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 May 2016 19:22:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>hghghghghghghg</p>]]></description>
+            <link>undefinedhghghghghghghg/index.html</link>
+            <guid isPermaLink="false">b1fc594c-003c-4dd7-afe1-0fc6030175fa</guid>
+            <pubDate>Mon, 30 May 2016 19:22:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
